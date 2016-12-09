@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSCI_540_Project", "CSCI_540_Project\CSCI_540_Project.csproj", "{5D1EBC90-DB05-42DD-AC40-9E7FA871F530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarTest.cs", "CalendarTest.cs\CalendarTest.cs.csproj", "{B4992893-AFFA-48D6-9BE9-4453CE5989EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarFeedMetaMutant", "ClassFeedMetaMutant\CalendarFeedMetaMutant.csproj", "{5C8855B7-39A5-4FCA-B2FA-192BA3D6BBB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D1EBC90-DB05-42DD-AC40-9E7FA871F530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1EBC90-DB05-42DD-AC40-9E7FA871F530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1EBC90-DB05-42DD-AC40-9E7FA871F530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1EBC90-DB05-42DD-AC40-9E7FA871F530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4992893-AFFA-48D6-9BE9-4453CE5989EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4992893-AFFA-48D6-9BE9-4453CE5989EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4992893-AFFA-48D6-9BE9-4453CE5989EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4992893-AFFA-48D6-9BE9-4453CE5989EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8855B7-39A5-4FCA-B2FA-192BA3D6BBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8855B7-39A5-4FCA-B2FA-192BA3D6BBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8855B7-39A5-4FCA-B2FA-192BA3D6BBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8855B7-39A5-4FCA-B2FA-192BA3D6BBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
